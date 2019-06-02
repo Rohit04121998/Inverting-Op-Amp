@@ -1,0 +1,8 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"Banana_Jack_1Pin";1;"Ground";;;
+2;"J2";"Banana_Jack_1Pin";1;"Input";;;
+3;"J3";"Banana_Jack_1Pin";1;"+12V";;;
+4;"J4";"Banana_Jack_1Pin";1;"-12V";;;
+5;"J5";"Banana_Jack_1Pin";1;"Output";;;
+6;"R1,R2";"R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal";2;"R";;;
+7;"U1";"SMDIP-8_W9.53mm_Clearance8mm";1;"LM741";;;
